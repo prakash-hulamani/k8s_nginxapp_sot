@@ -5,6 +5,6 @@ metadata:
   namespace: fluxcdtutorial
 spec:
   type: github
-  address: https://github.com/biraderomkar/k8s_nginxapp_sot
+  address: https://github.com/prakash-hulamani/k8s_nginxapp_sot
   secretRef:
     name: github
