@@ -10,4 +10,4 @@ spec:
   interval: 5m
   releaseName: nginx-app
   dependsOn:
-    - name: database-app
+    - name: redis
