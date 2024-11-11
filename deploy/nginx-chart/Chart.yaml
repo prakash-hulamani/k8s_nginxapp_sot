@@ -1,0 +1,13 @@
+# apiVersion: v2
+# name: nginx-chart
+# description: A Helm chart for NGINX deployment and service
+# version: 0.1.0
+# appVersion: "1.0"
+
+
+apiVersion: v2
+name: multi-app-chart
+description: A Helm chart to deploy multiple applications (nginx and redis)
+version: 0.1.0
+appVersion: "1.0"
+
